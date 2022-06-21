@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis deleniti natus enim assumenda, amet dolorum voluptas quaerat maxime repellendus architecto porro sit laborum odit consequuntur est molestias, eum repudiandae tempore omnis error nobis magnam animi iure mollitia? Impedit fugiat amet autem possimus illum tenetur ipsum, et repellendus consectetur esse corrupti saepe error accusantium atque distinctio asperiores cupiditate ad quos at sit similique illo recusandae dicta. Odit consequuntur explicabo laborum numquam dolorum, est iste natus quod rerum deleniti necessitatibus ab quo repudiandae sit in iure ea repellendus eius repellat eum maxime omnis. Quae odio magni nemo quas quo fugit voluptatibus ducimus.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis deleniti natus enim assumenda, amet dolorum voluptas quaerat maxime repellendus architecto porro sit laborum odit consequuntur est molestias, eum repudiandae tempore omnis error nobis magnam animi iure mollitia? Impedit fugiat amet autem possimus illum tenetur ipsum, et repellendus consectetur esse corrupti saepe error accusantium atque distinctio asperiores cupiditate ad quos at sit similique illo recusandae dicta. Odit consequuntur explicabo laborum numquam dolorum, est iste natus quod rerum deleniti necessitatibus ab quo repudiandae sit in iure.",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis deleniti natus enim assumenda, amet dolorum voluptas quaerat maxime repellendus architecto porro sit laborum odit consequuntur est molestias, eum repudiandae tempore omnis error nobis magnam animi iure mollitia? Impedit fugiat amet autem possimus illum tenetur ipsum, et repellendus consectetur esse corrupti saepe error accusantium .",
+      "author": "mario",
+      "id": 3
+    },
+    {
+      "title": "aasjkaskj",
+      "body": "asnahqie",
+      "author": "luigi",
+      "id": 5
+    },
+    {
+      "title": "qwiqwij",
+      "body": "sasmal",
+      "author": "mario",
+      "id": 7
+    }
+  ]
+}
