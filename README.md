@@ -12,6 +12,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
+### `To run the server`
+
+Server is built with local json-server with the db.json placed inside this repo.<br>
+To run server execute - "*json-server db.json -p 4000*"
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
